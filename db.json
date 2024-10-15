@@ -1,0 +1,19 @@
+{
+  "contas": [
+    {
+      "id": 1,
+      "nome": "vitin",
+      "balanco": 50
+    },
+    {
+      "id": 2,
+      "nome": "Arthur",
+      "balanco": 12
+    },
+    {
+      "id": 3,
+      "nome": "Pablin",
+      "balanco": 30
+    }
+  ]
+}
